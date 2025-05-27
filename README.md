@@ -20,4 +20,3 @@ My toolkit includes Python and libraries like **numpy**, **pandas**, and fast da
 
 ---
 
-_Minimalism. Precision. Impact._
